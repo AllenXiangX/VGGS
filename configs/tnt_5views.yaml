@@ -1,0 +1,5 @@
+multi_view_min_dis: 0.01
+multi_view_max_angle: 90
+multi_view_max_dis: 8.0
+depth_conf_thrsh: 1.2
+depth_conf_thrsh_2: 0
